@@ -90,10 +90,10 @@ graph_symbol= "braille"
 # Graph symbol to use for graphs in cpu box, "default", "braille", "block" or "tty".
 graph_symbol_cpu = "tty"
 # Graph symbol to use for graphs in gpu box, "default", "braille", "block" or "tty".
-graph_symbol_gpu = "tty"
-# Graph symbol to use for graphs in cpu box, "default", "braille", "block" or "tty".
-graph_symbol_mem = "tty"
-# Graph symbol to use for graphs in cpu box, "default", "braille", "block" or "tty".
-graph_symbol_net = "tty"
-# Graph symbol to use for graphs in cpu box, "default", "braille", "block" or "tty".
-graph_symbol_proc = "tty"
+graph_symbol_gpu = "braille"
+# Graph symbol to use for graphs in memory box, "default", "braille", "block" or "tty".
+graph_symbol_mem = "braille"
+# Graph symbol to use for graphs in network box, "default", "braille", "block" or "tty".
+graph_symbol_net = "braille"
+# Graph symbol to use for graphs in process box, "default", "braille", "block" or "tty".
+graph_symbol_proc = "braille"

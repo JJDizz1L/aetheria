@@ -1,2 +1,7 @@
 @define-color foreground #14B9B5;
 @define-color background #0e091d;
+@define-color border #a60234;
+@define-color accent #c8e967;
+@define-color warning #e20342;
+@define-color error #c53253;
+@define-color success #7cd699;
