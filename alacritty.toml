@@ -5,8 +5,8 @@ foreground = '#14B9B5'
 
 [colors.normal]
 black   = "#000000"
-red     = "#c8e967"
-green   = "#E20342"
+red     = "#E20342"
+green   = "#c8e967"
 yellow  = "#7cd699"
 blue    = "#BE3F50"
 magenta = "#9147a8"
