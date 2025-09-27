@@ -1,0 +1,4 @@
+*.md
+neovim.lua
+vscode.json
+.git/
