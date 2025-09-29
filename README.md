@@ -26,7 +26,7 @@ This theme can be installed two ways to your Omarchy system. Choose one.
 3. Paste: `CTRL+SHIFT+V`, then press enter/return.
 
 ### System Modifications
-Aetheria customizes your system with a dark background and adds bright vibrent colors. If you have an OLED display; Aetheria is a delight.</br>
+Aetheria customizes your system with a dark background and adds bright vibrant colors. If you have an OLED display; Aetheria is a delight.</br>
 - Supported Terminals: Alacritty, Kitty, Ghostty.
 - Supported Browsers: Chromium (Omarchy fork).
 - Modifies TUI colors: nvim/lazyvim, btop++, nvtop, etc.
