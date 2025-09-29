@@ -17,7 +17,7 @@ theme[selected_bg]="#c8e967"
 theme[selected_fg]="#000000"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#c53253"  
+theme[inactive_fg]="#c53253"
 
 # Color of text appearing on top of graphs
 theme[graph_text]="#fd3e6a"
@@ -40,60 +40,11 @@ theme[proc_box]="#c8e967"
 # Box divider line and small boxes line color
 theme[div_line]="#a60234"
 
-# Temperature graph colors
-theme[temp_start]="#04c5f0"
-theme[temp_mid]="#c8e967"
-theme[temp_end]="#e20342"
-
-# CPU graph colors
-#theme[cpu_start]="#c53253"
-#theme[cpu_mid]="#629C89"
-#theme[cpu_end]="#76AD98"
-
-# Mem/Disk free meter
-#theme[free_start]="#c53253"
-#theme[free_mid]="#629C89"
-#theme[free_end]="#76AD98"
-
-# Mem/Disk cached meter
-#theme[cached_start]="#c53253"
-#theme[cached_mid]="#629C89"
-#theme[cached_end]="#76AD98"
-
-# Mem/Disk available meter
-#theme[available_start]="#c53253"
-#theme[available_mid]="#629C89"
-#theme[available_end]="#76AD98"
-
-# Mem/Disk used meter
-#theme[used_start]="#c53253"
-#theme[used_mid]="#629C89"
-#theme[used_end]="#76AD98"
-
-# Download graph colors
-#theme[download_start]="#c53253"
-#theme[download_mid]="#61949A"
-#theme[download_end]="#215866"
-
-# Upload graph colors
-#theme[upload_start]="#c53253"
-#theme[upload_mid]="#91C080"
-#theme[upload_end]="#549E6A"
-
-# Process box color gradient for threads, mem and cpu usage
-#theme[process_start]="#c53253"
-#theme[process_mid]="#D0D494"
-#theme[process_end]="#DB9F9C"
-
+# Ensures squared corners and braille graphs
 rounded_corners= "False"
 graph_symbol= "braille"
-# Graph symbol to use for graphs in cpu box, "default", "braille", "block" or "tty".
-graph_symbol_cpu = "tty"
-# Graph symbol to use for graphs in gpu box, "default", "braille", "block" or "tty".
-graph_symbol_gpu = "tty"
-# Graph symbol to use for graphs in cpu box, "default", "braille", "block" or "tty".
-graph_symbol_mem = "tty"
-# Graph symbol to use for graphs in cpu box, "default", "braille", "block" or "tty".
-graph_symbol_net = "tty"
-# Graph symbol to use for graphs in cpu box, "default", "braille", "block" or "tty".
-graph_symbol_proc = "tty"
+graph_symbol_cpu = "braille"
+graph_symbol_gpu = "braille"
+graph_symbol_mem = "braille"
+graph_symbol_net = "braille"
+graph_symbol_proc = "braille"
