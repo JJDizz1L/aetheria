@@ -38,6 +38,6 @@ Aetheria customizes your system with a dark background and adds bright vibrant c
 - Modifies notifications: Up from 5secs to 8secs.
 - Aetheria ASCII art txt file located in root folder.
 - Adds dim to inactive windows: Great for focusing on one task.
-  - To disable dimming, add `decoration: dim_modal=flase` to your hyprland.conf file in your *~/.config/hypr/* folder.
+  - To disable dimming, add `decoration: dim_inactive=flase` to your hyprland.conf file in your *~/.config/hypr/* folder.
 > base16-tarot: https://github.com/tinted-theming/base16-schemes/blob/main/tarot.yaml </br>
 > Waveform Dark: https://github.com/hipsterusername/omarchy-waveform-dark-theme
