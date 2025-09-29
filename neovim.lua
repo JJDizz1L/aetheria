@@ -31,12 +31,8 @@ return {
                     hex_FD3E6A = '#FD3E6A', -- Vibrant pink-red
                     hex_7cd699 = '#7cd699', -- Light blue-green
                     hex_47A854 = '#47A854', -- Dark green
-                    -- Special
-                    hex_092F34 = '#092F34', -- Dark desaturated blue
-                    hex_061F23 = '#061F23', -- Very dark teal-blue
-                    hex_092F34 = '#092F34', -- Dark desaturated blue
                 }
-
+                ---@diagnostic disable: undefined-global
                 -- Reset highlighting
                 vim.cmd('highlight clear')
                 if vim.fn.exists('syntax_on') then
