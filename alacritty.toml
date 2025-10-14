@@ -24,5 +24,5 @@ cyan    = "#ffbe74"
 white   = "#11AEB3"
 
 [colors.cursor]
-text   = "#ff7f41"
+text   = "#0e091d"
 cursor = "#ff7f41"
