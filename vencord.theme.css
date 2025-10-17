@@ -1,6 +1,6 @@
 /**
- * @name system24
- * @description a tui-style discord theme.
+ * @name system24 | Aetheria Theme
+ * @description A tui-style Discord theme for Omarchy Hyprland by Dizziee.
  * @author refact0r
  * @version 2.0.0
  * @invite nz87hXyvcy
@@ -99,9 +99,9 @@ body {
     /* text colors */
     --text-0: var(--bg-4); /* text on colored elements */
     --text-1: oklch(75% 0.09 193); /* other normally white text */
-    --text-2: oklch(70% 0.09 193); /* headings and important text */
+    --text-2: oklch(0.7335 0.1731 44.4); /* headings and important text */
     --text-3: oklch(65% 0.09 193); /* normal text */
-    --text-4: oklch(55% 0.09 193); /* icon buttons and channels */
+    --text-4: oklch(0.5525 0.1621 16.5); /* icon buttons and channels */
     --text-5: oklch(45% 0.09 193); /* muted channels/chats and timestamps */
 
     /* background and dark colors */
@@ -113,10 +113,10 @@ body {
         70% 0.0413 292.66 / 0.1
     ); /* channels and buttons when hovered */
     --active: oklch(
-        oklch(0.8842 0.1605 121.66) / 0.2
+        0.8842 0.1605 121.66 / 0.8
     ); /* channels and buttons when clicked or selected */
     --active-2: oklch(
-        oklch(0.8842 0.1605 121.66) / 0.3
+        0.5309 0.162 317.53 / 1
     ); /* extra state for transparent buttons */
     --message-hover: var(--hover); /* messages when hovered */
 
