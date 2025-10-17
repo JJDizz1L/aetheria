@@ -38,6 +38,14 @@ Aetheria customizes your system with a dark background and adds bright vibrant c
 - Modifies notifications: Up from 5secs to 8secs.
 - Aetheria ASCII art txt file located in root folder.
 - Adds dim to inactive windows: Great for focusing on one task.
-  - To disable dimming, add `decoration: dim_inactive=false` to your hyprland.conf file in your *~/.config/hypr/* folder.
+  - To toggle dimming, `SUPER+ALT+BACKSPACE`.
+- Added Aetheria Discord Theme CSS file in root folder.
+  - Equicord/Vencord/Vesktop is required to alter your Discord theme.
+  - For Equicord/Vencord/Vesktop, follow these steps:
+    1a. Copy ~/.config/omarchy/themes/aetheria/vencord.theme.css to ~/.config/Equicord/themes/.
+    1b. Copy ~/.config/omarchy/themes/aetheria/vencord.theme.css to ~/.config/Vencord/themes/.
+    1c. Copy ~/.config/omarchy/themes/aetheria/vencord.theme.css to ~/.config/Vesktop/themes/.
+    2. Open Discord, Navigate to Settings > Themes.
+    3. Click, "Load missing Themes", Tick "system24 | Aetheria Theme".
 > base16-tarot: https://github.com/tinted-theming/base16-schemes/blob/main/tarot.yaml </br>
 > Waveform Dark: https://github.com/hipsterusername/omarchy-waveform-dark-theme
