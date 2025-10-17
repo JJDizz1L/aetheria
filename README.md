@@ -42,9 +42,9 @@ Aetheria customizes your system with a dark background and adds bright vibrant c
 - Added Aetheria Discord Theme CSS file in root folder.
   - Equicord/Vencord/Vesktop is required to alter your Discord theme.
   - For Equicord/Vencord/Vesktop, follow these steps:
-    1a. Copy ~/.config/omarchy/themes/aetheria/vencord.theme.css to ~/.config/Equicord/themes/.
-    1b. Copy ~/.config/omarchy/themes/aetheria/vencord.theme.css to ~/.config/Vencord/themes/.
-    1c. Copy ~/.config/omarchy/themes/aetheria/vencord.theme.css to ~/.config/Vesktop/themes/.
+    - Copy ~/.config/omarchy/themes/aetheria/vencord.theme.css to ~/.config/Equicord/themes/.
+    - Copy ~/.config/omarchy/themes/aetheria/vencord.theme.css to ~/.config/Vencord/themes/.
+    - Copy ~/.config/omarchy/themes/aetheria/vencord.theme.css to ~/.config/Vesktop/themes/.
     2. Open Discord, Navigate to Settings > Themes.
     3. Click, "Load missing Themes", Tick "system24 | Aetheria Theme".
 > base16-tarot: https://github.com/tinted-theming/base16-schemes/blob/main/tarot.yaml </br>
