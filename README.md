@@ -29,11 +29,11 @@ This theme can be installed two ways to your Omarchy system. Choose one.
 Omarchy Themes can be enhanced your theming such as customizing: neovim, shaders, fonts, templates, generating colors, GTK app colors (experimental), and more!
 1. Using Aether App, pre-installed on Omarchy Hyprland Systems.
 2. If you're not using Omarchy, you can install Aether from the AUR: `yay -S aether`
-Visit - https://github.com/bjarneo/aether
+  - https://github.com/bjarneo/aether
 
 In addition to Aether, you can go even further by exploring `omarchy-theme-hook`, which allows for further customization to your system. 
 This allows for automatically theming: Alacritty, Cava, Chromium, Cursor, Discord, Firefox, Ghostty, GTK, Hyprland, Kitty, Mako, QT6, Spotify, Steam, Superfile, SwayOSD, Vicinae, VS Code, Walker, Waybar, Windsurf, Zed, and Zen Browser.
-Visit - https://github.com/imbypass/omarchy-theme-hook
+  - https://github.com/imbypass/omarchy-theme-hook
 
 ### System Modifications
 Aetheria customizes your system with a dark background and adds bright vibrant colors. If you have an OLED display; Aetheria is a delight.</br>
