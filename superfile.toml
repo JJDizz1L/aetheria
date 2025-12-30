@@ -1,0 +1,51 @@
+
+# ========= Border =========
+file_panel_border = '#A60234'
+sidebar_border = '#A60234'
+footer_border = '#A60234'
+
+# ========= Border Active =========
+file_panel_border_active = '#BE3F50'
+sidebar_border_active = '#BE3F50'
+footer_border_active = '#BE3F50'
+modal_border_active = '#BE3F50'
+
+# ========= Background (bg) =========
+full_screen_bg = '#0e091d'
+file_panel_bg = '#0e091d'
+sidebar_bg = '#0e091d'
+footer_bg = '#0e091d'
+modal_bg = '#0e091d'
+
+# ========= Foreground (fg) =========
+full_screen_fg = '#14B9B5'
+file_panel_fg = '#14B9B5'
+sidebar_fg = '#14B9B5'
+footer_fg = '#14B9B5'
+modal_fg = '#14B9B5'
+
+# ========= Special Color =========
+cursor = '#14B9B5'
+correct = '#E20342'
+error = '#c8e967'
+hint = '#FF7F41'
+cancel = '#c8e967'
+gradient_color = ['#000000', "#c53253"]
+
+# ========= File Panel Special Items =========
+file_panel_top_directory_icon = '#000000'
+file_panel_top_path = '#c53253'
+file_panel_item_selected_fg = '#c53253'
+file_panel_item_selected_bg = '#0e091d'
+
+# ========= Sidebar Special Items =========
+sidebar_title = '#11AEB3'
+sidebar_item_selected_fg = '#c53253'
+sidebar_item_selected_bg = '#0e091d'
+sidebar_divider = '#A60234'
+
+# ========= Modal Special Items =========
+modal_cancel_fg = "#383838"
+modal_cancel_bg = '#c8e967'
+modal_confirm_fg = "#383838"
+modal_confirm_bg = '#E20342'
