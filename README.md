@@ -49,7 +49,8 @@ Aetheria customizes your system with a dark background and adds bright vibrant c
 - Aetheria ASCII art txt file located in root folder.
 - Adds dim to inactive windows: Great for focusing on one task.
   - To toggle dimming, `SUPER+ALT+BACKSPACE`.
-- Added Aetheria Discord Theme CSS file in root folder. (Note: Steps below not needed with omarchy-theme-hook installed.)
+- Added Aetheria Discord Theme CSS file in root folder. 
+(Note: Steps below not needed with omarchy-theme-hook installed.)
   - Equicord/Vencord/Vesktop is required to alter your Discord theme.
   - For Equicord/Vencord/Vesktop, follow these steps:
     - Copy ~/.config/omarchy/themes/aetheria/vencord.theme.css to ~/.config/Equicord/themes/.
