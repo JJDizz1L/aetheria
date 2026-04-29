@@ -33,7 +33,7 @@ Omarchy Themes can be enhanced your theming such as customizing: neovim, shaders
 
 In addition to Aether, you can go even further by exploring `omarchy-theme-hook`, which allows for further customization to your system. 
 This allows for automatically theming: Alacritty, Cava, Chromium, Cursor, Discord, Firefox, Ghostty, GTK, Hyprland, Kitty, Mako, QT6, Spotify, Steam, Superfile, SwayOSD, Vicinae, VS Code, Walker, Waybar, Windsurf, Zed, and Zen Browser.
-  - https://github.com/imbypass/omarchy-theme-hook
+  - https://github.com/OldJobobo/theme-hook-plugin-manager
 
 ### System Modifications
 Aetheria customizes your system with a dark background and adds bright vibrant colors. If you have an OLED display; Aetheria is a delight.</br>
