@@ -14,6 +14,8 @@
 Aetheria was created specifically for the **OMARCHY** | Hyprland system.</br>
 *..."of the upper air," "heavenly," or "celestial."*
 <img width="3841" height="2161" alt="preview" src="https://github.com/user-attachments/assets/bd6ab102-e512-482a-ace3-6fe70702ac5c" />
+<img width="1920" height="1080" alt="preview-unlock" src="https://github.com/user-attachments/assets/a4810ac8-b755-4fe0-8db3-ac93bbd73297" />
+New, Omarchy 3.7+ (Plymouth) Unlock Screen 
 
 # Installation
 This theme can be installed two ways to your Omarchy system. Choose one.
