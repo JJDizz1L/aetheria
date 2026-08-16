@@ -22,6 +22,13 @@ This theme can be installed two ways to your Omarchy system. Choose one.
 
 ### TERMINAL
 `omarchy-theme-install https://github.com/JJDizz1L/aetheria.git`
+
+### QUATTRO REQUIREMENT
+Required for Quickshell to render WebP images. This saves local disk space and reduces system cache size (RAM) when the theme is loaded.
+```
+sudo pacman -S qt6-imageformats
+```
+
 ### WALKER MENU
 1. Copy this link: `https://github.com/JJDizz1L/aetheria.git`
 2. Open Walker, `SUPER+ALT+SPACE`, navigate to: Install < Style < Theme
@@ -45,7 +52,7 @@ Aetheria customizes your system with a dark background and adds bright vibrant c
 - Omarchy Waybar: Stays default, color change only.
 - Omarchy Walker (app launcher): Stays default, color change only.
 - Omarchy Hyprland Lockscreen (hyprlock): Stays default, color change only.
-- Adds six beautiful 4K wallpapers. Shipped as WebP to keep the theme cache lean; on Omarchy 4 (Quattro) the `qt6-imageformats` package provides the WebP decoder the Omarchy shell needs to render them. Older Omarchy releases: install `qt6-imageformats` via `sudo pacman -S qt6-imageformats`.
+- Adds six beautiful 4K wallpapers.
 - Modifies animations: They're very fast and fluid; don't worry.
 - Modifies notifications: Up from 5secs to 8secs.
 - Aetheria ASCII art txt file located in root folder.
