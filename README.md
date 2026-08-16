@@ -45,7 +45,7 @@ Aetheria customizes your system with a dark background and adds bright vibrant c
 - Omarchy Waybar: Stays default, color change only.
 - Omarchy Walker (app launcher): Stays default, color change only.
 - Omarchy Hyprland Lockscreen (hyprlock): Stays default, color change only.
-- Adds six beautiful 4K wallpapers.
+- Adds six beautiful 4K wallpapers. Shipped as WebP to keep the theme cache lean; on Omarchy 4 (Quattro) the `qt6-imageformats` package provides the WebP decoder the Omarchy shell needs to render them. Older Omarchy releases: install `qt6-imageformats` via `sudo pacman -S qt6-imageformats`.
 - Modifies animations: They're very fast and fluid; don't worry.
 - Modifies notifications: Up from 5secs to 8secs.
 - Aetheria ASCII art txt file located in root folder.
