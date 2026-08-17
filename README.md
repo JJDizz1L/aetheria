@@ -23,12 +23,6 @@ This theme can be installed two ways to your Omarchy system. Choose one.
 ### TERMINAL
 `omarchy-theme-install https://github.com/JJDizz1L/aetheria.git`
 
-### QUATTRO REQUIREMENT
-Required for Quickshell to render WebP images. This saves local disk space and reduces system cache size (RAM) when the theme is loaded.
-```
-sudo pacman -S qt6-imageformats
-```
-
 ### WALKER MENU
 1. Copy this link: `https://github.com/JJDizz1L/aetheria.git`
 2. Open Walker, `SUPER+ALT+SPACE`, navigate to: Install < Style < Theme
